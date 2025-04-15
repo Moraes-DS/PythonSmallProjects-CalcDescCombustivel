@@ -28,6 +28,7 @@ elif tipo_combustivel == 'D':
     desconto = 0.03
   else:
     desconto = 0.05
+    
 # Caso ocorra um erro na especificação de tipo de combustível,
 # consideramos entradas inválidas, e os preços são taxados em 0
 else:
